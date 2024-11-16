@@ -22,7 +22,7 @@ This project requires Python 3 and the following Python libraries installed:
 Also verify if ypou have insttalled Microsoft C++ Build Tools, 
 "Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
-# Remenber API
+# Remember API's
 
 https://aistudio.google.com/app/apikey
 
