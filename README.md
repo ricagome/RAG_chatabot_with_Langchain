@@ -19,6 +19,13 @@ This project requires Python 3 and the following Python libraries installed:
 
 `langchain` ,`langchain-openai`, `langchain-google-genai`, `chromadb`, `streamlit`, `streamlit`
 
+Also verify if ypou have insttalled Microsoft C++ Build Tools, 
+"Microsoft C++ Build Tools": https://visualstudio.microsoft.com/visual-cpp-build-tools/
+
+# Remenber API
+
+https://aistudio.google.com/app/apikey
+
 The full list of requirements can be found in `requirements.txt`
 
 ## Instructions <a name="instructions"></a>

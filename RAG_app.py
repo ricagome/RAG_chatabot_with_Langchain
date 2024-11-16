@@ -203,7 +203,7 @@ def sidebar_and_documentChooser():
             expander_model_parameters(
                 LLM_provider="Google",
                 text_input_API_key="Google API Key - [Get an API key](https://makersuite.google.com/app/apikey)",
-                list_models=["gemini-pro"],
+                list_models=["gemini-pro","gemini-1.5-flash"],
             )
         if llm_chooser == list_LLM_providers[2]:
             expander_model_parameters(
